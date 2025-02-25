@@ -19,7 +19,7 @@ GROUP_ID = "-1001649502135"
 CHANNEL_USERNAME = "@VEN0M_FEEDBACK"
 
 # Default cooldown and attack limits
-COOLDOWN_TIME = 80  # Cooldown in seconds
+COOLDOWN_TIME = 120  # Cooldown in seconds
 ATTACK_LIMIT = 10  # Max attacks per day
 global_pending_attack = None
 global_last_attack_time = None
